@@ -8,7 +8,7 @@ import (
 
 	"github.com/gorilla/mux"
 	"github.com/jinzhu/gorm"
-	"github.com/DATA-DOG/go-sqlmock"
+	// "github.com/DATA-DOG/go-sqlmock"
 	_ "github.com/jinzhu/gorm/dialects/sqlite"
 )
 

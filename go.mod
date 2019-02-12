@@ -1,6 +1,7 @@
 module github.com/shubhamrathi/todo-app
 
 require (
+	github.com/DATA-DOG/go-sqlmock v1.3.0
 	github.com/azbshiri/common v0.0.0-20180905080837-eddcaa61d308
 	github.com/go-pg/pg v7.1.7+incompatible
 	github.com/gorilla/mux v1.7.0
